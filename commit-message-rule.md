@@ -13,8 +13,11 @@
 - **when revise**
 `revise [file name]`
 
+- **when revise parts not related to the content**
+`fix [file name]`
+
 - **when final version ready**
-`prepare [file name] for publication`
+`finalize [file name] for publication`
 
 - **when revise after publication**
-`post-publication revision of [file name]`
+`update [file name]`
