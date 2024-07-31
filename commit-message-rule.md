@@ -1,23 +1,26 @@
-- **when create**
-`initialize [file name]`
+- **When create**
+`Initialize [file name]`
 
-- **when create and complete**
-`add [file name]`
+- **When create and complete**
+`Add [file name]`
 
-- **when progress**
-`write on [file name]`
+- **When progress**
+`Write on [file name]`
 
-- **when first draft completed**
-`complete first draft of [file name]`
+- **When first draft completed**
+`Complete first draft of [file name]`
 
-- **when revise**
-`revise [file name]`
+- **When revise**
+`Revise [file name]`
 
-- **when revise parts not related to the content**
-`fix [file name]`
+- **When revise parts not related to the content**
+`Fix [file name]`
 
-- **when final version ready**
-`finalize [file name] for publication`
+- **When final version ready**
+`Finalize [file name] for publication`
 
-- **when revise after publication**
-`update [file name]`
+- **When revise after publication**
+`Update [file name]`
+
+- **When delete a file** -
+`Delete [file name]`
