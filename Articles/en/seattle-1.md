@@ -8,3 +8,5 @@ After that, I boarded an airplane bound for an Airport at Seattle.
 
 ## Arrived!!
 After 14 hours on the airplane, I finally arrived! After picking up a baggage at lane, I passed the immigration check. It was 1:30PM, so I sought to go to hotel. But, I struggled a lot to just do such thing. I walked around airports for about 30 minutes, but I couldn't find the station to ride on a metro I wanted.
+
+After 30 minutes searching, I finally found the place to board on. I bought a ticket with a card and succeeded to get a train. I rode for about 20 minutes, it arrived at the nearest station to the hotel I reserved. I dropped there and head the hotel with rolling a suitcase.
